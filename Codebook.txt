@@ -1,0 +1,14 @@
+Column 1 is the Subject (ranging from 1 - 30)
+
+Column 2 is the Activity Label that is being performed by the subject.
+
+Column 3: 81 are all averaged values per subject per activity based on the mean and standard deviation data available as described below using the original README file from the data set.
+
+For each record it is provided:
+======================================
+- Identifiers of the subject who carried out the experiment and the activity being carried out.
+- A 79-feature vector with averaged time and frequency domain mean and std variables. 
+- Activity labels with the name remaining intact as the original dataset. 
+
+
+=========================================
